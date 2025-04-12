@@ -120,12 +120,3 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
     ✔️ Swagger üzerinden kolay test imkanı
     ✔️ Temiz ve modüler kod yapısı
 
-✍️ Geliştirici
-
-    Merve
-    GitHub • LinkedIn
-    📬 İletişim için: merveacar.ce@gmail.com
-
-📝 Lisans
-
-MIT © 2025
